@@ -9,7 +9,7 @@ version = "0.2"
 default-features = false
 
 [build-dependencies]
-bindgen = "0.25"
+bindgen = "0.26"
 
 [features]
 # This is a dummy feature that only exists to work around a Xargo issue.
